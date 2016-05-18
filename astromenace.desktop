@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Name=AstroMenace
+Comment=3D space shooter
+Exec=astromenace --dir=/usr/share/astromenace/
+Icon=/usr/share/pixmaps/astromenace.png
+Type=Application
+Categories=Game
+Terminal=false
